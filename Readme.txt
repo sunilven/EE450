@@ -50,6 +50,6 @@ each one in a different instance and following the abovemwntioned order.
 
 The format of the messages exchanged are as mentioned with <space> being a delimiter at the messages where a username or password is being exchanged. Otherwise the delimiter is a #.
 
-Code has heavily been used from the beej's guide to socket programming which has proven to be an invaluable asset for the purpose of this assigment
+Code has heavily been used from the beej's guide to socket programming which has proven to be an invaluable asset for the purpose of this assigment.
 
 Any error occuring anywhere in the socket related sections is given by perror().
